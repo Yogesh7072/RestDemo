@@ -24,7 +24,11 @@
 			<artifactId>jaxb-api</artifactId>
 			<version>2.3.1</version>
 		</dependency>
+<!--public class RestDemoApplication {
 
+	public static void main(String[] args) {
+		SpringApplication.run(RestDemoApplication.class, args);
+	}-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
